@@ -2,4 +2,4 @@
 172.31.35.50 ansible_user=centos
 
 [ubuntu]
-172.31.46.88 ansible_user=ubuntu
+172.31.34.107 ansible_user=ubuntu
