@@ -6,6 +6,3 @@
 172.31.47.159
 172.31.47.175
 
-[nginx:vars]
-ansible_user=centos
-ansible_ssh_pass=DevOps321
